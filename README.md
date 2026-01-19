@@ -90,5 +90,6 @@ Diseño centrado en la usabilidad y la reducción de carga cognitiva:
 ### 👤 Autor
 
 **Stephany Marilyn Toribio Alvarado**
-* Expertise: Business Intelligence | Data Science | Strategic Planning
+* *Data Scientist & Analyst*
+* Expertise: Business Intelligence | Machine Learning | Strategic Planning
 * [LinkedIn](https://www.linkedin.com/in/stephany-marilyn-toribio-alvarado-47080b303/) | [Portafolio](https://stephany-toribio.github.io/MWeb/)
